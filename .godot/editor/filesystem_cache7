@@ -1,4 +1,8 @@
 102b54792f6b2ef812636a2bdaeb9d34
-::res://::1635803844
+::res://::1635808762
 default_env.tres::Environment::-1::1635803838::0::1::::<><>::
 icon.png::StreamTexture2D::2798612980853166473::1635803838::1635803844::1::::<><>::
+::res://addons/::1635808733
+plugin.cfg::TextFile::-1::1635807498::0::1::::<><>::
+xcom_import_palette.gd::GDScript::-1::1635808733::0::1::::<>EditorImportPlugin<>::
+xcom_palette.gd::GDScript::-1::1635808123::0::1::::<>EditorPlugin<>::

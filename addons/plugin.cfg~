@@ -1,0 +1,7 @@
+[plugin]
+
+name="XCOM Palette Import"
+description="Imports XCOM .DAT Palette files into texture"
+author="Sanki"
+version="1.0.0"
+script="xcom_import_palette.gd"
