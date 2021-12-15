@@ -1,0 +1,14 @@
+[remap]
+
+importer="xcom.import.palette"
+type="ImageTexture"
+uid="uid://om3evwdvxdt8"
+path="res://.godot/imported/PALETTES.DAT-f89f552ae639c320edf0277ab770e9e7.tex"
+
+[deps]
+
+source_file="res://resources/PALETTES.DAT"
+dest_files=["res://.godot/imported/PALETTES.DAT-f89f552ae639c320edf0277ab770e9e7.tex"]
+
+[params]
+
