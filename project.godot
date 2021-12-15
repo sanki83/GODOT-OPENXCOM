@@ -13,6 +13,10 @@ config_version=4
 config/name="Godot- Openxcom"
 config/icon="res://icon.png"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/xcom-palette-import/plugin.cfg")
+
 [rendering]
 
 vulkan/rendering/back_end=1
